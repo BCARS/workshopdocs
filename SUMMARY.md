@@ -6,4 +6,5 @@
 * [Bedford County ARES Badge](bedford-county-ares-badge.md)
 * [Go Beyond](go-beyond.md)
 * [Resources](resources.md)
+* [Remote stations](remote-stations.md)
 
