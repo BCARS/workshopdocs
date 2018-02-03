@@ -8,6 +8,5 @@
 * [Bedford County ARES Badge](bedford-county-ares-badge.md)
 * [Starter Radios](starter-radios.md)
 * [Resources](resources.md)
-* [l](frequencies-and-modes.md)
-* [Frequencies and Modes](frequencies-and-modes.md)
+
 
