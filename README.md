@@ -1,4 +1,4 @@
-# BCARS Amateur Radio Workshop Q&A
+![](/assets/lettterhead2.png)BCARS Amateur Radio Q&A Workshop
 
 In 2018, The Bedford County Amateur Radio Society will be hosting free amateur radio Q&A workshops at the Bedford American Legion Post. This is a free event for the public to learn what amateur radio is all about, how to get licensed, and an opportunity to practice with live radio equipment. Whether you are just curious about the hobby or are already licensed, this is a great opportunity to learn about and advance within the hobby. More information is available on www.bcars.org, look us up on Facebook, or contact John Hogenmiller at 814-602-9298.
 
@@ -21,6 +21,5 @@ Two weeks following a workshop, BCARS will host a VE licensing session. This is 
 Except for field day, all events will be held at:  
 American Legion Post 113  
 3721 US-220 BUS  
-Bedford, PA 15522  
-
+Bedford, PA 15522
 

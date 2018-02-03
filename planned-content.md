@@ -20,7 +20,7 @@ Again, take 300, divide that by your frequency in Mhz. The number you get is the
 | :--- | :--- | :--- | :--- | :--- |
 | 145.490Mhz | 2.06m/6.76ft/81in | 1.28m/4.2ft/50in | 1.03m/3.38ft/40.55in | .52m/1.7ft/19.5in |
 
-[^1]: ARPANSA graphic [https://www.arpansa.gov.au/understanding-radiation/what-is-radiation](https://www.arpansa.gov.au/understanding-radiation/what-is-radiation)
 
-[^2]: Chart from [http://www.richardsradios.co.uk/freqwave.html](http://www.richardsradios.co.uk/freqwave.html)
+
+[^1]: ARPANSA graphic [https://www.arpansa.gov.au/understanding-radiation/what-is-radiation](https://www.arpansa.gov.au/understanding-radiation/what-is-radiation)
 
