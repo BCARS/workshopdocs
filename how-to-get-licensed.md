@@ -1,4 +1,4 @@
-* [ ] ## Preparing for the FCC** Amateur Radio Licensed Exam**
+## Preparing for the FCC** Amateur Radio Licensed Exam**
 
 BCARS believes that the real learning of amateur radio comes from being able to operate. To that end, we encourage potential licensees to study to pass the exam, with an understanding that you will be able to study the parts of amateur radio that interest you further and have the ability to put that knowledge into immediate, practical use.
 
